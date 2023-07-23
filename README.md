@@ -25,23 +25,16 @@ Uzbekistan contributors:
 
 <h3>Contacts:</h3>
 
-> E-mail: zilolanazarova1994@gmail.com
->
-> Discord: [NazarovaZi#8696](https://discordapp.com/users/1132805236575187075)
-> 
+> E-mail: zilolanazarova1994@gmail.com <br/>
+> Discord: [NazarovaZi#8696](https://discordapp.com/users/1132805236575187075) <br/>
 > Telegram: https://t.me/ZilolaNazarova
 
 <h3>Professional Profiles:</h3>
 
-> LinkedIn: [NazarovaZi](https://linkedin.com/in/nazarovazi)
-> 
+> LinkedIn: [NazarovaZi](https://linkedin.com/in/nazarovazi) <br/>
 > Twitter: [NazarovaZi](https://twitter.com/NazarovaZi)
->
-<i class="ci ci-spotify ci-2x"></i>
 
 <h3>Personal Profiles:</h3>
 
-> Facebook account where I share my arts, landscapes and events [Zilola Nazarova](https://www.facebook.com/NazarovaZi)
-> 
-> Instagram account dedicated to photography [zilola2398](https://www.instagram.com/zilola2398)
-> 
+> Facebook account where I share my arts, landscapes and events [Zilola Nazarova](https://www.facebook.com/NazarovaZi) <br/>
+> Instagram account dedicated to photography [zilola2398](https://www.instagram.com/zilola2398) <br/>
