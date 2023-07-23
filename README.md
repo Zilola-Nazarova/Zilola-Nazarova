@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"/>
-
 <h2> Hi, I'm Zilola <br/> </h2>
 
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse</p>
