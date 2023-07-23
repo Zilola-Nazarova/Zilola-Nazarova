@@ -14,10 +14,11 @@
 >
 > Besides programming languages, I work in [Adobe Photoshop](https://www.adobe.com/ru/products/photoshop.html), [Adobe Illustrator](https://www.adobe.com/ru/products/illustrator.html) and [Figma](https://www.figma.com/login)
 
-
 <h3>My Stack:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
+
+<!--- <img align='right' src="https://github.com/Zilola-Nazarova/Zilola-Nazarova/assets/61951420/b162c9fc-6e04-40c3-8da4-e97ec4af35c5" width="600"> -->
 
 <h3>Contacts:</h3>
 
