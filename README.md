@@ -19,7 +19,7 @@
 > Besides programming languages, I work in [Adobe Photoshop](https://www.adobe.com/ru/products/photoshop.html), [Adobe Illustrator](https://www.adobe.com/ru/products/illustrator.html) and [Figma](https://www.figma.com/login)
 
 
-<h3>My Stats:</h3>
+<h3>My Stack:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
 
