@@ -1,28 +1,35 @@
-<h2 align="center"> Hi, I'm Zilola <br/> </h2>
-<p align="center"> I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse </p>
-- I’m currently working on [To-Do List app](https://zilola-nazarova.github.io/to-do-list), [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) and [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
-- I’m currently learning [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) and [React.js](https://ru.legacy.reactjs.org/)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"/>
+
+<h2> Hi, I'm Zilola <br/> </h2>
+<p> I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse </p>
+
+> I’m currently working on [To-Do List app](https://zilola-nazarova.github.io/to-do-list), [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) and [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
+> 
+> I’m currently learning [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) and [React.js](https://ru.legacy.reactjs.org/)
 
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-<p align="center"> <img width="1000" alt="Gorge" src="https://github.com/Zilola-Nazarova/Zilola-Nazarova/assets/61951420/f7b7be2a-5e6d-4671-984b-0255fbec4478"> </p>
+<h3>My Stats:</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
 
+<h3>Contacts:</h3>
 
+> E-mail: zilolanazarova1994@gmail.com
+>
+> Telegram: https://t.me/ZilolaNazarova
+>
+<h3>Professional Profiles:</h3>
 
-<!--
-**Zilola-Nazarova/Zilola-Nazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> LinkedIn: www.linkedin.com/in/NazarovaZi
+> 
+> Twitter: https://twitter.com/NazarovaZi
+>
+<i class="ci ci-spotify ci-2x"></i>
 
-Here are some ideas to get you started:
+<h3>Personal Profiles:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Facebook account where I share my arts, landscapes and events https://www.facebook.com/NazarovaZi
+> 
+> Instagram account dedicated to photography https://www.instagram.com/zilola2398
+> 
+
