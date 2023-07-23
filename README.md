@@ -21,6 +21,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
 
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova)
+
 <h3>Contacts:</h3>
 
 > E-mail: zilolanazarova1994@gmail.com
@@ -28,7 +30,7 @@
 > Discord: [NazarovaZi#8696](https://discordapp.com/users/1132805236575187075)
 > 
 > Telegram: https://t.me/ZilolaNazarova
->
+
 <h3>Professional Profiles:</h3>
 
 > LinkedIn: [NazarovaZi](https://linkedin.com/in/nazarovazi)
