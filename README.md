@@ -31,7 +31,7 @@
 >
 <h3>Professional Profiles:</h3>
 
-> LinkedIn: [NazarovaZi](www.linkedin.com/in/nazarovazi)
+> LinkedIn: [NazarovaZi](https://linkedin.com/in/nazarovazi)
 > 
 > Twitter: [NazarovaZi](https://twitter.com/NazarovaZi)
 >
