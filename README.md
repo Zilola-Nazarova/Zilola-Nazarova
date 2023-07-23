@@ -4,15 +4,12 @@
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse</p>
 
 > I’m currently working on:
-> > [To-Do List app](https://zilola-nazarova.github.io/to-do-list)
-> > 
-> > [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/)
-> > 
+> > [To-Do List app](https://zilola-nazarova.github.io/to-do-list) <br/>
+> > [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) <br/>
 > > [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
 > 
 > I’m currently learning
-> > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-> > 
+> > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
 > > [React.js](https://ru.legacy.reactjs.org/)
 >
 > Besides programming languages, I work in [Adobe Photoshop](https://www.adobe.com/ru/products/photoshop.html), [Adobe Illustrator](https://www.adobe.com/ru/products/illustrator.html) and [Figma](https://www.figma.com/login)
