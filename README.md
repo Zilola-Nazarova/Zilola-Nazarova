@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Zilola <br/> </h2>
 
-**I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse**
+<p>I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse</p>
 
 > I’m currently working on [To-Do List app](https://zilola-nazarova.github.io/to-do-list), [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) and [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
 > 
