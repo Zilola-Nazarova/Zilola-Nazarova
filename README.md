@@ -1,3 +1,4 @@
+
 <h2> Hi, I'm Zilola <br/> </h2>
 
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse</p>
@@ -20,6 +21,8 @@
 <h3>My Stack:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
+
+Uzbekistan contributors:
 
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova)
 
@@ -45,4 +48,3 @@
 > 
 > Instagram account dedicated to photography [zilola2398](https://www.instagram.com/zilola2398)
 > 
-
