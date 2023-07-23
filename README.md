@@ -19,10 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zilola-Nazarova&layout=compact&show_icons=true&theme=onedark)
 
-Uzbekistan contributors:
-
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova)
-
 <h3>Contacts:</h3>
 
 > E-mail: zilolanazarova1994@gmail.com <br/>
@@ -38,3 +34,6 @@ Uzbekistan contributors:
 
 > Facebook account where I share my arts, landscapes and events [Zilola Nazarova](https://www.facebook.com/NazarovaZi) <br/>
 > Instagram account dedicated to photography [zilola2398](https://www.instagram.com/zilola2398) <br/>
+
+Uzbekistan contributors: <br/>
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova)
