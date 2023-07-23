@@ -1,4 +1,16 @@
-### Hi there 👋
+<h2 align="center"> Hi, I'm Zilola <br/> </h2>
+<p align="center"> I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse </p>
+- I’m currently working on [To-Do List app](https://zilola-nazarova.github.io/to-do-list), [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) and [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
+- I’m currently learning [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) and [React.js](https://ru.legacy.reactjs.org/)
+
+
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+<p align="center"> <img width="1000" alt="Gorge" src="https://github.com/Zilola-Nazarova/Zilola-Nazarova/assets/61951420/f7b7be2a-5e6d-4671-984b-0255fbec4478"> </p>
+
+
+
 
 <!--
 **Zilola-Nazarova/Zilola-Nazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
