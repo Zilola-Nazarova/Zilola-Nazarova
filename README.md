@@ -25,7 +25,7 @@
 
 > E-mail: zilolanazarova1994@gmail.com
 >
-> Discord: [ZiNazarova](https://discordapp.com/users/1132805236575187075)
+> Discord: [NazarovaZi#8696](https://discordapp.com/users/1132805236575187075)
 > 
 > Telegram: https://t.me/ZilolaNazarova
 >
