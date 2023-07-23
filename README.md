@@ -1,11 +1,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"/>
 
 <h2> Hi, I'm Zilola <br/> </h2>
-<p> I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse </p>
+
+**I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse**
 
 > I’m currently working on [To-Do List app](https://zilola-nazarova.github.io/to-do-list), [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) and [My personal portfolio website](https://zilola-nazarova.github.io/zilola-portfolio/)
 > 
 > I’m currently learning [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) and [React.js](https://ru.legacy.reactjs.org/)
+>
+> Besides programming languages, I work in Adobe Photoshop, Adobe Illustrator and Figma
 
 
 <h3>My Stats:</h3>
