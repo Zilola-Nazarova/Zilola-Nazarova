@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Zilola-Nazarova)
-
 <h2> Hi, I'm Zilola <br/> </h2>
 
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
