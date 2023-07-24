@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Zilola <br/> </h2>
 
-<p>I’m a full-stack development student with an architecture background, currently mastering my tech skills in Microverse</p>
+<p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
 
 > I’m currently working on:
 > > [To-Do List app](https://zilola-nazarova.github.io/to-do-list) <br/>
