@@ -35,4 +35,4 @@
 > Facebook account where I share my arts, landscapes and events [Zilola Nazarova](https://www.facebook.com/NazarovaZi) <br/>
 > Instagram account dedicated to photography [zilola2398](https://www.instagram.com/zilola2398) <br/>
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova.svg)](https://user-badge.committers.top/uzbekistan/Zilola-Nazarova) 
