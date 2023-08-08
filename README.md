@@ -3,9 +3,9 @@
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
 
 > I’m currently working on:
+> > [Math Magicians SPA](https://zilola-nazarova.github.io/math-magicians/) <br/>
 > > [Leaderboard app](https://github.com/Zilola-Nazarova/leaderboard) <br/>
 > > [To-Do List app](https://zilola-nazarova.github.io/to-do-list) <br/>
-> > [Awesome Books app](https://zilola-nazarova.github.io/awesome-books-es6/) <br/>
 > 
 > I’m currently learning
 > > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
