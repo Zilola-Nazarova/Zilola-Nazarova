@@ -3,6 +3,7 @@
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
 
 > I’m currently working on:
+> > [Mountains Forecast SPA](https://github.com/Zilola-Nazarova/mountains-forecast/) <br/>
 > > [Math Magicians SPA](https://github.com/Zilola-Nazarova/math-magicians/) <br/>
 > > [Bookstore SPA](https://github.com/Zilola-Nazarova/bookstore) <br/>
 > 
