@@ -4,8 +4,8 @@
 
 > I’m currently working on:
 > > [Mountains Forecast SPA](https://github.com/Zilola-Nazarova/mountains-forecast/) <br/>
-> > [Math Magicians SPA](https://github.com/Zilola-Nazarova/math-magicians/) <br/>
-> > [Bookstore SPA](https://github.com/Zilola-Nazarova/bookstore) <br/>
+> > [Vet clinic database](https://github.com/Zilola-Nazarova/vet-clinic-database) <br/>
+> > [School Library SPA](https://github.com/Zilola-Nazarova/school-library) <br/>
 > 
 > I’m currently learning
 > > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
