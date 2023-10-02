@@ -8,8 +8,8 @@
 > > [School Library SPA](https://github.com/Zilola-Nazarova/school-library) <br/>
 > 
 > I’m currently learning
-> > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
-> > [React.js](https://ru.legacy.reactjs.org/)
+> > [Ruby](https://www.ruby-lang.org/en/) <br/>
+> > [PostgreSQL](https://www.postgresql.org/)
 >
 > Besides programming languages, I work in [Adobe Photoshop](https://www.adobe.com/ru/products/photoshop.html), [Adobe Illustrator](https://www.adobe.com/ru/products/illustrator.html) and [Figma](https://www.figma.com/login)
 
