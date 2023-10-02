@@ -27,7 +27,7 @@
 
 <h3>Professional Profiles:</h3>
 
-> LinkedIn: [NazarovaZi](https://linkedin.com/in/nazarovazi) <br/>
+> LinkedIn: [NazarovaZi](https://linkedin.com/in/zilola-nazarova) <br/>
 > Twitter: [NazarovaZi](https://twitter.com/NazarovaZi)
 
 <h3>Personal Profiles:</h3>
