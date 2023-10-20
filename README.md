@@ -3,7 +3,7 @@
 <p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
 
 > I’m currently working on:
-> > [Mountains Forecast SPA](https://github.com/Zilola-Nazarova/mountains-forecast/) <br/>
+> > [Catalog of my things console app](https://github.com/Zilola-Nazarova/ruby-capstone-project/) <br/>
 > > [Vet clinic database](https://github.com/Zilola-Nazarova/vet-clinic-database) <br/>
 > > [School Library SPA](https://github.com/Zilola-Nazarova/school-library) <br/>
 > 
