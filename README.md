@@ -4,10 +4,11 @@
 
 > I’m currently working on:
 > > [Catalog of my things console app](https://github.com/Zilola-Nazarova/ruby-capstone-project/) <br/>
-> > [Vet clinic database](https://github.com/Zilola-Nazarova/vet-clinic-database) <br/>
-> > [School Library SPA](https://github.com/Zilola-Nazarova/school-library) <br/>
+> > [Budget App](https://github.com/Zilola-Nazarova/budget-app) <br/>
+> > [Blog App](https://github.com/Zilola-Nazarova/blog-app) <br/>
 > 
 > I’m currently learning
+> > [Ruby on Rails](https://rubyonrails.org/) <br/>
 > > [Ruby](https://www.ruby-lang.org/en/) <br/>
 > > [PostgreSQL](https://www.postgresql.org/)
 >
