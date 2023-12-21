@@ -1,6 +1,6 @@
 <h2> Hi, I'm Zilola <br/> </h2>
 
-<p>I’m a full-stack development student with an architecture background, currently mastering my tech skills at Microverse</p>
+<p>I’m a full-stack software developer with an architecture background, currently mastering my tech skills at Microverse</p>
 
 > I’m currently working on:
 > > [Catalog of my things console app](https://github.com/Zilola-Nazarova/ruby-capstone-project/) <br/>
