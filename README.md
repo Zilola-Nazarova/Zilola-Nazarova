@@ -1,6 +1,6 @@
 <h2> Hi, I'm Zilola <br/> </h2>
 
-<p>I’m a full-stack software developer with an architecture background, currently mastering my tech skills at Microverse</p>
+<p>Full-stack web developer with a background in architecture and a love for UX/UI. Embrace and excel in the realm of mathematics and arts.  Proficient in multiple languages, frameworks and technologies. Experienced in pair programming and remote work, quick to adapt. Fast learner and multitasker.</p>
 
 > I’m currently working on:
 > > [Catalog of my things console app](https://github.com/Zilola-Nazarova/ruby-capstone-project/) <br/>
@@ -9,7 +9,7 @@
 > 
 > I’m currently learning
 > > [Ruby on Rails](https://rubyonrails.org/) <br/>
-> > [Ruby](https://www.ruby-lang.org/en/) <br/>
+> > [Python](https://www.python.org/) <br/>
 > > [PostgreSQL](https://www.postgresql.org/)
 >
 > Besides programming languages, I work in [Adobe Photoshop](https://www.adobe.com/ru/products/photoshop.html), [Adobe Illustrator](https://www.adobe.com/ru/products/illustrator.html) and [Figma](https://www.figma.com/login)
