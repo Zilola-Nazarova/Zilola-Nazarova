@@ -3,9 +3,10 @@
 <p>Full-stack web developer with a background in architecture and a love for UX/UI. Embrace and excel in the realm of mathematics and arts.  Proficient in multiple languages, frameworks and technologies. Experienced in pair programming and remote work, quick to adapt. Fast learner and multitasker.</p>
 
 > I’m currently working on:
-> > [Catalog of my things console app](https://github.com/Zilola-Nazarova/ruby-capstone-project/) <br/>
+> > [Portfolio](https://github.com/Zilola-Nazarova/portfolio) <br/>
 > > [Budget App](https://github.com/Zilola-Nazarova/budget-app) <br/>
 > > [Blog App](https://github.com/Zilola-Nazarova/blog-app) <br/>
+> > [Mountains Forecast Back-end](https://github.com/Zilola-Nazarova/mountains-forecast-back-end) <br/>
 > 
 > I’m currently learning
 > > [Ruby on Rails](https://rubyonrails.org/) <br/>
