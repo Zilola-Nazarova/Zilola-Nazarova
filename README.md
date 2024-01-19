@@ -10,7 +10,7 @@
 > I’m currently learning
 > > [Ruby on Rails](https://rubyonrails.org/) <br/>
 > > [Python](https://www.python.org/) <br/>
-> > [Heroku](https://dashboard.heroku.com/)
+> > [Heroku](https://dashboard.heroku.com/) <br/>
 > > [Netlify](https://www.netlify.com/)
 
 
