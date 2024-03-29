@@ -8,10 +8,9 @@
 > > [Mountains Forecast Back-end](https://github.com/Zilola-Nazarova/mountains-forecast-back-end) <br/>
 > 
 > I’m currently learning
-> > [Ruby on Rails](https://rubyonrails.org/) <br/>
-> > [Python](https://www.python.org/) <br/>
-> > [Heroku](https://dashboard.heroku.com/) <br/>
-> > [Netlify](https://www.netlify.com/)
+> > [jQuery](https://jquery.com/) <br/>
+> > [Node.js](https://nodejs.org/) <br/>
+> > [Python](https://www.python.org/)
 
 
 <h3>My Stack:</h3>
