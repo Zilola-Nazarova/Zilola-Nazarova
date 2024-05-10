@@ -3,14 +3,14 @@
 <p>Full-stack web developer with a background in architecture and a love for UX/UI. Embrace and excel in the realm of mathematics and arts.  Proficient in multiple languages, frameworks and technologies. Experienced in pair programming and remote work, quick to adapt. Fast learner and multitasker.</p>
 
 > I’m currently working on:
-> > [Budget App](https://github.com/Zilola-Nazarova/budget-app) - CSS, responsiveness <br/>
-> > [Blog App](https://github.com/Zilola-Nazarova/blog-app) - media queries, desktop layout <br/>
+> > [Itransition Course Project](https://github.com/Zilola-Nazarova/itransition-courseproject) - developing a full-stack app <br/>
+> > [Itransition Task 5](https://github.com/Zilola-Nazarova/itransition-task5) - typo generation, Bootstrap, more vivid addresses <br/>
 > > [Mountains Forecast Back-end](https://github.com/Zilola-Nazarova/mountains-forecast-back-end) <br/>
 > 
 > I’m currently learning
 > > [jQuery](https://jquery.com/) <br/>
 > > [Node.js](https://nodejs.org/) <br/>
-> > [Python](https://www.python.org/)
+> > [Flutter](https://docs.flutter.dev/)
 
 
 <h3>My Stack:</h3>
