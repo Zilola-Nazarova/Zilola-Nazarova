@@ -8,8 +8,8 @@
 > > [Mountains Forecast Back-end](https://github.com/Zilola-Nazarova/mountains-forecast-back-end) <br/>
 > 
 > I’m currently learning
-> > [jQuery](https://jquery.com/) <br/>
-> > [Node.js](https://nodejs.org/) <br/>
+> > [Angular](https://angular.dev/) <br/>
+> > [TypeScript](https://www.typescriptlang.org/) <br/>
 > > [Flutter](https://docs.flutter.dev/)
 
 
