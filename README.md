@@ -5,7 +5,7 @@
 > I’m currently working on:
 > > [Itransition Course Project](https://github.com/Zilola-Nazarova/itransition-courseproject) - developing a full-stack app <br/>
 > > [Itransition Task 5](https://github.com/Zilola-Nazarova/itransition-task5) - typo generation, Bootstrap, more vivid addresses <br/>
-> > [Mountains Forecast Back-end](https://github.com/Zilola-Nazarova/mountains-forecast-back-end) <br/>
+> > [YouTube client app](https://github.com/Zilola-Nazarova/rs-school-youtube) - student project to practice Angular <br/>
 > 
 > I’m currently learning
 > > [Angular](https://angular.dev/) <br/>
